@@ -1,0 +1,31 @@
+{
+  "hp": 100.0,
+  "speed": 20.0,
+
+  "speedControllerCoolTime": 5.0,
+  "speedControllerActiveTime": 5.0,
+  "speedControllerMoveSpeedUp": 3.0,
+  "speedcontrollerMaxUpSpeed": 35.0,
+
+  "superSpeedMoveSpeed": 5000.0,
+  "superSpeedMoveLength": 300.0,
+  "superSpeedCoolTime": 2.0,
+
+  "tornadoCoolTime": 6.0,
+  "tornadoActiveTime": 5.0,
+  "tornadoPower": 200,
+
+  "gravityCoolTime": 4.0,
+  "gravityActiveTime": 5.0,
+  "gravityExtent": 20.0,
+
+  "invisibleCoolTime": 8.0,
+  "invisibleActiveTime": 2.0,
+  "invisibleTransmission": 0.008,
+  "invisibleAccelCount": 0.01,
+  "invisibleMoveValue": 0.02,
+
+  "parryCoolTime": 10.0,
+  "parryPower": 20000,
+  "parryRange": 5.0
+}

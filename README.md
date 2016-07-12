@@ -1,6 +1,6 @@
-# GameAwards2016
-Japan Game Awards 2016 Amateur  
-[ホームページ][HP]  
+# Stream League
+
+![title](title.png)
 
 # ルール
 [コーティングルール][Wiki]
